@@ -426,10 +426,3 @@ Intégration visioconférence pour consulting
 
 Application mobile (PWA puis native)
 
-Document de référence pour tout le développement. Toute modification fonctionnelle doit être répercutée ici.
-
-text
-
----
-
-Spécification fonctionnelle terminée. Souhaitez-vous passer au document suivant : **03-Architecture.md** ?
